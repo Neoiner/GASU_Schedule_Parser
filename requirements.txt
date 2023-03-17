@@ -1,0 +1,7 @@
+asyncio
+openpyxl
+xls2xlsx
+typing 
+sqlalchemy
+gino
+currency-symbols
